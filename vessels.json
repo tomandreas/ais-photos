@@ -1,0 +1,850 @@
+[
+  {
+    "name": "ADVANTAGE ATOM",
+    "mmsi": null
+  },
+  {
+    "name": "ADVANTAGE SMOOTH",
+    "mmsi": null
+  },
+  {
+    "name": "AGIOS NIKOLAOS",
+    "mmsi": null
+  },
+  {
+    "name": "ALBA FSU",
+    "mmsi": null
+  },
+  {
+    "name": "ALFA ALANDIA",
+    "mmsi": "311000534"
+  },
+  {
+    "name": "ALFA BALTICA",
+    "mmsi": "311000306"
+  },
+  {
+    "name": "ALFA FINLANDIA",
+    "mmsi": "311000820"
+  },
+  {
+    "name": "ALPES",
+    "mmsi": "636023942"
+  },
+  {
+    "name": "ALTERA WAVE",
+    "mmsi": null
+  },
+  {
+    "name": "AMALIA M",
+    "mmsi": null
+  },
+  {
+    "name": "AQUALOYALTY",
+    "mmsi": null
+  },
+  {
+    "name": "ARCTIC AURORA",
+    "mmsi": "229767000"
+  },
+  {
+    "name": "ARCTIC LADY",
+    "mmsi": null
+  },
+  {
+    "name": "ARCTIC STAR",
+    "mmsi": null
+  },
+  {
+    "name": "ARCTIC VOYAGER",
+    "mmsi": null
+  },
+  {
+    "name": "ARDMORE SEAVANGUARD",
+    "mmsi": null
+  },
+  {
+    "name": "ASP TREASURES",
+    "mmsi": null
+  },
+  {
+    "name": "ASPEN",
+    "mmsi": "636023947"
+  },
+  {
+    "name": "ATLANTIC DIAMOND",
+    "mmsi": null
+  },
+  {
+    "name": "ATLANTIC GEM",
+    "mmsi": null
+  },
+  {
+    "name": "ATLANTIC JADE",
+    "mmsi": null
+  },
+  {
+    "name": "AURORA SPIRIT",
+    "mmsi": null
+  },
+  {
+    "name": "BALDER",
+    "mmsi": "354721000"
+  },
+  {
+    "name": "BERGEN TS",
+    "mmsi": "248024000"
+  },
+  {
+    "name": "BIGLIFT BARENTSZ",
+    "mmsi": null
+  },
+  {
+    "name": "BODIL KNUTSEN",
+    "mmsi": "257998000"
+  },
+  {
+    "name": "BOW TRIBUTE",
+    "mmsi": null
+  },
+  {
+    "name": "BW BOREALIS",
+    "mmsi": null
+  },
+  {
+    "name": "BW BRUSSELS",
+    "mmsi": null
+  },
+  {
+    "name": "BW NIVALIS",
+    "mmsi": "563315500"
+  },
+  {
+    "name": "CANOPUS VOYAGER",
+    "mmsi": null
+  },
+  {
+    "name": "CAPE ANN",
+    "mmsi": null
+  },
+  {
+    "name": "CEDAR",
+    "mmsi": null
+  },
+  {
+    "name": "CHAMPAGNY",
+    "mmsi": null
+  },
+  {
+    "name": "CHIOS STAR",
+    "mmsi": null
+  },
+  {
+    "name": "CSK VANGUARD",
+    "mmsi": "563003300"
+  },
+  {
+    "name": "DEEPSEA ATLANTIC",
+    "mmsi": null
+  },
+  {
+    "name": "DELTA HELLAS",
+    "mmsi": null
+  },
+  {
+    "name": "DF MONTMARTRE",
+    "mmsi": null
+  },
+  {
+    "name": "DF MYSTRAS",
+    "mmsi": null
+  },
+  {
+    "name": "DUE NORTH",
+    "mmsi": null
+  },
+  {
+    "name": "DUNE",
+    "mmsi": null
+  },
+  {
+    "name": "EAGLE BALDER",
+    "mmsi": "257089150"
+  },
+  {
+    "name": "EAGLE BARCELONA",
+    "mmsi": null
+  },
+  {
+    "name": "EAGLE BARENTS",
+    "mmsi": "257980000"
+  },
+  {
+    "name": "EAGLE BERGEN",
+    "mmsi": "311000340"
+  },
+  {
+    "name": "EAGLE BLANE",
+    "mmsi": "257089140"
+  },
+  {
+    "name": "EAGLE BRASILIA",
+    "mmsi": null
+  },
+  {
+    "name": "EAGLE KLANG",
+    "mmsi": null
+  },
+  {
+    "name": "EAGLE SAN FRANCISCO",
+    "mmsi": null
+  },
+  {
+    "name": "EGRET",
+    "mmsi": null
+  },
+  {
+    "name": "ELIAS TSAKOS",
+    "mmsi": "241455000"
+  },
+  {
+    "name": "ENERGY AFRODITE",
+    "mmsi": null
+  },
+  {
+    "name": "ENERGY DIONE",
+    "mmsi": null
+  },
+  {
+    "name": "ENERGY TRIUMPH",
+    "mmsi": null
+  },
+  {
+    "name": "ESTRELLA",
+    "mmsi": null
+  },
+  {
+    "name": "FLEX ENDEAVOUR",
+    "mmsi": null
+  },
+  {
+    "name": "FLOATEL ENDURANCE",
+    "mmsi": null
+  },
+  {
+    "name": "FLOATEL SUPERIOR",
+    "mmsi": null
+  },
+  {
+    "name": "FORTALEZA KNUTSEN",
+    "mmsi": null
+  },
+  {
+    "name": "FPF-1",
+    "mmsi": null
+  },
+  {
+    "name": "FPMC 31",
+    "mmsi": null
+  },
+  {
+    "name": "FRIDA KNUTSEN",
+    "mmsi": "257956000"
+  },
+  {
+    "name": "FRONT ALTAIR",
+    "mmsi": "538007007"
+  },
+  {
+    "name": "FRONT ANTARES",
+    "mmsi": "538007133"
+  },
+  {
+    "name": "FRONT CAPELLA",
+    "mmsi": null
+  },
+  {
+    "name": "FRONT FUSION",
+    "mmsi": null
+  },
+  {
+    "name": "FRONT JAGUAR",
+    "mmsi": null
+  },
+  {
+    "name": "FRONT LEOPARD",
+    "mmsi": null
+  },
+  {
+    "name": "FRONT OCELOT",
+    "mmsi": "538006621"
+  },
+  {
+    "name": "FRONT SIRIUS",
+    "mmsi": "538007337"
+  },
+  {
+    "name": "FRONT SPARTA",
+    "mmsi": null
+  },
+  {
+    "name": "FRONT VEGA",
+    "mmsi": null
+  },
+  {
+    "name": "GORDON WATERS KNUTSEN",
+    "mmsi": "228432600"
+  },
+  {
+    "name": "GRAND ACE6",
+    "mmsi": null
+  },
+  {
+    "name": "GREAT EPSILON",
+    "mmsi": null
+  },
+  {
+    "name": "HAFNIA LOIRE",
+    "mmsi": "563175200"
+  },
+  {
+    "name": "HAFNIA TRITON",
+    "mmsi": "563069300"
+  },
+  {
+    "name": "HAIFENG",
+    "mmsi": "636020805"
+  },
+  {
+    "name": "HAIGUI",
+    "mmsi": null
+  },
+  {
+    "name": "HARMONIC",
+    "mmsi": null
+  },
+  {
+    "name": "HILDA KNUTSEN",
+    "mmsi": null
+  },
+  {
+    "name": "HOURAI MARU",
+    "mmsi": null
+  },
+  {
+    "name": "IBERICA KNUTSEN",
+    "mmsi": null
+  },
+  {
+    "name": "INGRID KNUTSEN",
+    "mmsi": null
+  },
+  {
+    "name": "IONIC ALTHEA",
+    "mmsi": null
+  },
+  {
+    "name": "ISABELLA",
+    "mmsi": "241747000"
+  },
+  {
+    "name": "ITHAKI DF",
+    "mmsi": "241875000"
+  },
+  {
+    "name": "JAARLI",
+    "mmsi": "230687000"
+  },
+  {
+    "name": "JATULI",
+    "mmsi": "230688000"
+  },
+  {
+    "name": "JILL GLORY",
+    "mmsi": null
+  },
+  {
+    "name": "KANARIS 21",
+    "mmsi": "215845000"
+  },
+  {
+    "name": "KAUPANG",
+    "mmsi": null
+  },
+  {
+    "name": "KK MARLIN",
+    "mmsi": null
+  },
+  {
+    "name": "KLEON",
+    "mmsi": null
+  },
+  {
+    "name": "KMARIN REASON",
+    "mmsi": null
+  },
+  {
+    "name": "KMARIN RELIANCE",
+    "mmsi": "538012816"
+  },
+  {
+    "name": "KMARIN RESOURCE",
+    "mmsi": null
+  },
+  {
+    "name": "KMARIN RESTRAINT",
+    "mmsi": null
+  },
+  {
+    "name": "KMARIN RIGOUR",
+    "mmsi": "235108529"
+  },
+  {
+    "name": "KOKSIJDE",
+    "mmsi": null
+  },
+  {
+    "name": "KOOL KELVIN",
+    "mmsi": null
+  },
+  {
+    "name": "KWK REVELATION",
+    "mmsi": null
+  },
+  {
+    "name": "LANCING",
+    "mmsi": "311000766"
+  },
+  {
+    "name": "LARGO ALPHA",
+    "mmsi": null
+  },
+  {
+    "name": "LEONTIOS H",
+    "mmsi": null
+  },
+  {
+    "name": "LEVANTINE SEA",
+    "mmsi": "636018671"
+  },
+  {
+    "name": "LILLESAND",
+    "mmsi": null
+  },
+  {
+    "name": "LUZON SPIRIT",
+    "mmsi": null
+  },
+  {
+    "name": "LYRIC CAMELLIA",
+    "mmsi": null
+  },
+  {
+    "name": "MARAN ATLAS",
+    "mmsi": null
+  },
+  {
+    "name": "MARAN CURRENT",
+    "mmsi": "311001594"
+  },
+  {
+    "name": "MARAN HOMER",
+    "mmsi": null
+  },
+  {
+    "name": "MARAN PEARY",
+    "mmsi": null
+  },
+  {
+    "name": "MARAN TIDE",
+    "mmsi": "311001585"
+  },
+  {
+    "name": "MARAN WIND",
+    "mmsi": null
+  },
+  {
+    "name": "MARATHON TS",
+    "mmsi": "249987000"
+  },
+  {
+    "name": "MARE SICULUM",
+    "mmsi": null
+  },
+  {
+    "name": "MARITIME AMITY",
+    "mmsi": null
+  },
+  {
+    "name": "MARLIN LE HAVRE",
+    "mmsi": null
+  },
+  {
+    "name": "MEGAN GLORY",
+    "mmsi": null
+  },
+  {
+    "name": "MH IBUKI",
+    "mmsi": null
+  },
+  {
+    "name": "MINERVA ALEXANDRA",
+    "mmsi": null
+  },
+  {
+    "name": "MINERVA LIMNOS",
+    "mmsi": null
+  },
+  {
+    "name": "MONTE UDALA",
+    "mmsi": null
+  },
+  {
+    "name": "MONTE ULIA",
+    "mmsi": "255806025"
+  },
+  {
+    "name": "MOSCOW SPIRIT",
+    "mmsi": null
+  },
+  {
+    "name": "MYKLEBUST",
+    "mmsi": null
+  },
+  {
+    "name": "NAVIG8 GRACE",
+    "mmsi": null
+  },
+  {
+    "name": "NAVIG8 GUARD",
+    "mmsi": null
+  },
+  {
+    "name": "NEWBURY",
+    "mmsi": "311001106"
+  },
+  {
+    "name": "NJORD DF",
+    "mmsi": "241866000"
+  },
+  {
+    "name": "NOBLE ENDEAVOR",
+    "mmsi": null
+  },
+  {
+    "name": "NOBLE GREATWHITE",
+    "mmsi": null
+  },
+  {
+    "name": "NOBLE INTERCEPTOR",
+    "mmsi": null
+  },
+  {
+    "name": "NORDIC CYGNUS",
+    "mmsi": "319130800"
+  },
+  {
+    "name": "NORDIC MOON",
+    "mmsi": null
+  },
+  {
+    "name": "NORDIC ZENITH",
+    "mmsi": null
+  },
+  {
+    "name": "OSLO TS",
+    "mmsi": "248006000"
+  },
+  {
+    "name": "OTTOMAN TENACITY",
+    "mmsi": null
+  },
+  {
+    "name": "PACIFIC EMERALD",
+    "mmsi": null
+  },
+  {
+    "name": "PACIFIC GARNET",
+    "mmsi": null
+  },
+  {
+    "name": "PACIFIC PEARL",
+    "mmsi": "538009202"
+  },
+  {
+    "name": "PACIFIC SAPPHIRE",
+    "mmsi": null
+  },
+  {
+    "name": "PARTHENON TS",
+    "mmsi": "249948000"
+  },
+  {
+    "name": "PATRIOTIC",
+    "mmsi": null
+  },
+  {
+    "name": "PEARY SPIRIT",
+    "mmsi": null
+  },
+  {
+    "name": "PENELOP",
+    "mmsi": null
+  },
+  {
+    "name": "PETROJARL KNARR",
+    "mmsi": null
+  },
+  {
+    "name": "PHILOTIMOS",
+    "mmsi": null
+  },
+  {
+    "name": "PIS RINJANI",
+    "mmsi": null
+  },
+  {
+    "name": "POINT LISAS",
+    "mmsi": null
+  },
+  {
+    "name": "PRIMERO",
+    "mmsi": null
+  },
+  {
+    "name": "PROTEUS BOHEMIA",
+    "mmsi": null
+  },
+  {
+    "name": "PROTEUS ELSIE",
+    "mmsi": null
+  },
+  {
+    "name": "PROTEUS HARVONNE",
+    "mmsi": null
+  },
+  {
+    "name": "PROTEUS INGRID",
+    "mmsi": null
+  },
+  {
+    "name": "PSERIMOS",
+    "mmsi": null
+  },
+  {
+    "name": "RAINBOW SPIRIT",
+    "mmsi": "311001591"
+  },
+  {
+    "name": "RAN DF",
+    "mmsi": "241869000"
+  },
+  {
+    "name": "SABRINA GLORY",
+    "mmsi": null
+  },
+  {
+    "name": "SAIPEM 7000",
+    "mmsi": null
+  },
+  {
+    "name": "SEA AMBER",
+    "mmsi": "241466000"
+  },
+  {
+    "name": "SEA CONDOR",
+    "mmsi": null
+  },
+  {
+    "name": "SEA NAVIGATOR",
+    "mmsi": null
+  },
+  {
+    "name": "SEA PUMA",
+    "mmsi": null
+  },
+  {
+    "name": "SEA URCHIN",
+    "mmsi": null
+  },
+  {
+    "name": "SEAFAITH",
+    "mmsi": null
+  },
+  {
+    "name": "SEAGALAXY",
+    "mmsi": null
+  },
+  {
+    "name": "SEAGUARDIAN",
+    "mmsi": null
+  },
+  {
+    "name": "SEAPEAK MAGELLAN",
+    "mmsi": null
+  },
+  {
+    "name": "SEAPEAK MERIDIAN",
+    "mmsi": "219061000"
+  },
+  {
+    "name": "SEAWAYS COLORADO",
+    "mmsi": null
+  },
+  {
+    "name": "SEAWISH",
+    "mmsi": null
+  },
+  {
+    "name": "SEBAROK SPIRIT",
+    "mmsi": null
+  },
+  {
+    "name": "SFL ALBANY",
+    "mmsi": null
+  },
+  {
+    "name": "SFL SABINE",
+    "mmsi": null
+  },
+  {
+    "name": "SILVERWAY",
+    "mmsi": null
+  },
+  {
+    "name": "SINDRE KNUTSEN",
+    "mmsi": null
+  },
+  {
+    "name": "SLEIPNIR",
+    "mmsi": "374887000"
+  },
+  {
+    "name": "SOLA TS",
+    "mmsi": "248020000"
+  },
+  {
+    "name": "SONANGOL HUILA",
+    "mmsi": null
+  },
+  {
+    "name": "SONANGOL RANGEL",
+    "mmsi": null
+  },
+  {
+    "name": "STALLION",
+    "mmsi": null
+  },
+  {
+    "name": "STATFJORD B",
+    "mmsi": null
+  },
+  {
+    "name": "STAVANGER TS",
+    "mmsi": "248022000"
+  },
+  {
+    "name": "STENA CONCEPT",
+    "mmsi": null
+  },
+  {
+    "name": "STENA SURPRISE",
+    "mmsi": null
+  },
+  {
+    "name": "STI GRATITUDE",
+    "mmsi": null
+  },
+  {
+    "name": "STI ROTHERHITHE",
+    "mmsi": null
+  },
+  {
+    "name": "SWORD",
+    "mmsi": "311000765"
+  },
+  {
+    "name": "TAQAH",
+    "mmsi": null
+  },
+  {
+    "name": "TARBET SPIRIT",
+    "mmsi": null
+  },
+  {
+    "name": "TENACITY VENTURE",
+    "mmsi": null
+  },
+  {
+    "name": "THOMAS ZAFIRAS",
+    "mmsi": "241456000"
+  },
+  {
+    "name": "THORNBURY",
+    "mmsi": "311001025"
+  },
+  {
+    "name": "TORILL KNUTSEN",
+    "mmsi": null
+  },
+  {
+    "name": "TORM AGNETE",
+    "mmsi": null
+  },
+  {
+    "name": "TORM ATLANTIC",
+    "mmsi": null
+  },
+  {
+    "name": "TORM GANGA",
+    "mmsi": null
+  },
+  {
+    "name": "TORM GITTE",
+    "mmsi": null
+  },
+  {
+    "name": "TORM HANNAH",
+    "mmsi": null
+  },
+  {
+    "name": "TORM KRISTINA",
+    "mmsi": null
+  },
+  {
+    "name": "TP INTREPID",
+    "mmsi": null
+  },
+  {
+    "name": "TRANSOCEAN ENABLER",
+    "mmsi": null
+  },
+  {
+    "name": "TRANSOCEAN NORGE",
+    "mmsi": null
+  },
+  {
+    "name": "TURKELI",
+    "mmsi": null
+  },
+  {
+    "name": "UNITY VENTURE",
+    "mmsi": null
+  },
+  {
+    "name": "VIOLANDO",
+    "mmsi": null
+  },
+  {
+    "name": "WEST ELARA",
+    "mmsi": null
+  },
+  {
+    "name": "WISDOM VENTURE",
+    "mmsi": null
+  },
+  {
+    "name": "YUAN NAN HAI",
+    "mmsi": null
+  }
+]
